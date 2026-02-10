@@ -17,4 +17,4 @@ WORKDIR /app
 EXPOSE 18789
 
 # Force start the gateway directly without interactive prompts
-CMD ["openclaw", "gateway", "start", "--port", "18789"]
+CMD ["openclaw", "gateway", "start", "--port", "8080"]
