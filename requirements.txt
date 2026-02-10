@@ -1,2 +1,2 @@
-openclaw
+git+https://github.com/openclaw-ai/openclaw.git
 python-dotenv
