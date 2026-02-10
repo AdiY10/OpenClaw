@@ -4,7 +4,7 @@ import os
 agent = Agent(
     name="hello-agent",
     system_prompt="You are a friendly assistant that responds briefly.",
-    model="gpt-4o-mini"
+    model="GPT-5 mini"
 )
 
 def main():
